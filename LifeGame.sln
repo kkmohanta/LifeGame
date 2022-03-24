@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.1.32228.430
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LifeGame", "LifeGame.csproj", "{6CC85B2E-A92A-406B-B686-40C4A016CB0E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GaeOfLifeTests", "..\GaeOfLifeTests\GaeOfLifeTests.csproj", "{EAA8578A-8D22-4913-9A57-11ACD9FE17AF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6CC85B2E-A92A-406B-B686-40C4A016CB0E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6CC85B2E-A92A-406B-B686-40C4A016CB0E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6CC85B2E-A92A-406B-B686-40C4A016CB0E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6CC85B2E-A92A-406B-B686-40C4A016CB0E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EAA8578A-8D22-4913-9A57-11ACD9FE17AF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EAA8578A-8D22-4913-9A57-11ACD9FE17AF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EAA8578A-8D22-4913-9A57-11ACD9FE17AF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EAA8578A-8D22-4913-9A57-11ACD9FE17AF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {CF4D7EC3-D9DD-4C51-BE21-A3AA22DB8D4A}
+	EndGlobalSection
+EndGlobal
